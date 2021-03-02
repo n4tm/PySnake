@@ -10,3 +10,5 @@ PIP - After python is installed, you need to install PIP by doing the following 
 To import pygame, just run:
   pip install pygame
  
+To run the game, just run on game directory:
+  python main.py
